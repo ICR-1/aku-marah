@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902484287534",
+    "project_id": "oioioioibaka1",
+    "storage_bucket": "oioioioibaka1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902484287534:android:585b3ac737b1d27ece7fbf",
+        "android_client_info": {
+          "package_name": "com.example.oioioiebaka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7lEnF9F3RDc5PMi-4DDBnUaVOUCaGb64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
